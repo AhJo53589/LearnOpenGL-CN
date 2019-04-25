@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{EFA66554-F6EA-41E5-B2FE-A14947DD57F3}</ProjectGuid>
-    <RootNamespace>FirstProject</RootNamespace>
+    <ProjectGuid>{400F6D34-63A8-4FCD-9658-B3289EE1082F}</ProjectGuid>
+    <RootNamespace>My12hellowindowclear</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -70,9 +70,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>C:\Fenix_Files\Workspace\Visual Studio Projects\LearnOpenGL\Includes;$(IncludePath)</IncludePath>
-    <ReferencePath>$(ReferencePath)</ReferencePath>
-    <LibraryPath>C:\Fenix_Files\Workspace\Visual Studio Projects\LearnOpenGL\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\..\Includes;$(IncludePath)</IncludePath>
+    <LibraryPath>..\..\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -122,8 +121,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWindow.cpp" />
-    <ClCompile Include="src\glad.c" />
+    <ClCompile Include="..\Common\glad.c" />
+    <ClCompile Include="hello_window_clear.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
