@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3.shaders_class", "3.3.sh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.1.textures", "4.1.textures\4.1.textures.vcxproj", "{4122D11A-18D4-49F7-B9B7-738158587844}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2.textures_combined", "4.2.textures_combined\4.2.textures_combined.vcxproj", "{466EAEBA-DA90-4767-92FA-054AECD1872F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{4122D11A-18D4-49F7-B9B7-738158587844}.Release|x64.Build.0 = Release|x64
 		{4122D11A-18D4-49F7-B9B7-738158587844}.Release|x86.ActiveCfg = Release|Win32
 		{4122D11A-18D4-49F7-B9B7-738158587844}.Release|x86.Build.0 = Release|Win32
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Debug|x64.ActiveCfg = Debug|x64
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Debug|x64.Build.0 = Debug|x64
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Debug|x86.ActiveCfg = Debug|Win32
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Debug|x86.Build.0 = Debug|Win32
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Release|x64.ActiveCfg = Release|x64
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Release|x64.Build.0 = Release|x64
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Release|x86.ActiveCfg = Release|Win32
+		{466EAEBA-DA90-4767-92FA-054AECD1872F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
