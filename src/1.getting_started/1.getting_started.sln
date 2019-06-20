@@ -3,35 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2.hello_window_clear", "1.getting_started\1.2.hello_window_clear\1.2.hello_window_clear.vcxproj", "{400F6D34-63A8-4FCD-9658-B3289EE1082F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2.hello_window_clear", "1.2.hello_window_clear\1.2.hello_window_clear.vcxproj", "{400F6D34-63A8-4FCD-9658-B3289EE1082F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.2.hello_triangle_indexed", "1.getting_started\2.2.hello_triangle_indexed\2.2.hello_triangle_indexed.vcxproj", "{572CCDC0-840F-4FBE-BEFC-E23AC5FC3D7F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.2.hello_triangle_indexed", "2.2.hello_triangle_indexed\2.2.hello_triangle_indexed.vcxproj", "{572CCDC0-840F-4FBE-BEFC-E23AC5FC3D7F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.shaders_uniform", "1.getting_started\3.1.shaders_uniform\3.1.shaders_uniform.vcxproj", "{399D0D38-D270-4EC7-B8FF-4D6DF9EE1BE0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.1.shaders_uniform", "3.1.shaders_uniform\3.1.shaders_uniform.vcxproj", "{399D0D38-D270-4EC7-B8FF-4D6DF9EE1BE0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.shaders_interpolation", "1.getting_started\3.2.shaders_interpolation\3.2.shaders_interpolation.vcxproj", "{E2F22A34-36D5-4B15-8E48-7363C6F49FE4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.shaders_interpolation", "3.2.shaders_interpolation\3.2.shaders_interpolation.vcxproj", "{E2F22A34-36D5-4B15-8E48-7363C6F49FE4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3.shaders_class", "1.getting_started\3.3.shaders_class\3.3.shaders_class.vcxproj", "{5A5BDFE9-88ED-45A5-A1ED-7CB40F1C27AD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3.shaders_class", "3.3.shaders_class\3.3.shaders_class.vcxproj", "{5A5BDFE9-88ED-45A5-A1ED-7CB40F1C27AD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.1.textures", "1.getting_started\4.1.textures\4.1.textures.vcxproj", "{4122D11A-18D4-49F7-B9B7-738158587844}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.1.textures", "4.1.textures\4.1.textures.vcxproj", "{4122D11A-18D4-49F7-B9B7-738158587844}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2.textures_combined", "1.getting_started\4.2.textures_combined\4.2.textures_combined.vcxproj", "{466EAEBA-DA90-4767-92FA-054AECD1872F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2.textures_combined", "4.2.textures_combined\4.2.textures_combined.vcxproj", "{466EAEBA-DA90-4767-92FA-054AECD1872F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.transformations", "1.getting_started\5.1.transformations\5.1.transformations.vcxproj", "{D383A288-7813-45CE-863E-580A4EAD1ED4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.1.transformations", "5.1.transformations\5.1.transformations.vcxproj", "{D383A288-7813-45CE-863E-580A4EAD1ED4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.1.coordinate_systems", "1.getting_started\6.1.coordinate_systems\6.1.coordinate_systems.vcxproj", "{C7DD38EF-8218-4B5F-ABC6-596E915ECA96}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.1.coordinate_systems", "6.1.coordinate_systems\6.1.coordinate_systems.vcxproj", "{C7DD38EF-8218-4B5F-ABC6-596E915ECA96}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.2.coordinate_systems_depth", "1.getting_started\6.2.coordinate_systems_depth\6.2.coordinate_systems_depth.vcxproj", "{6E59703A-6EC3-4B52-BC21-B6E1A618C866}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.2.coordinate_systems_depth", "6.2.coordinate_systems_depth\6.2.coordinate_systems_depth.vcxproj", "{6E59703A-6EC3-4B52-BC21-B6E1A618C866}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.3.coordinate_systems_multiple", "1.getting_started\6.3.coordinate_systems_multiple\6.3.coordinate_systems_multiple.vcxproj", "{5E2ECBF2-002F-44EB-B79D-63DF70E66490}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.3.coordinate_systems_multiple", "6.3.coordinate_systems_multiple\6.3.coordinate_systems_multiple.vcxproj", "{5E2ECBF2-002F-44EB-B79D-63DF70E66490}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.1.camera_circle", "1.getting_started\7.1.camera_circle\7.1.camera_circle.vcxproj", "{014829AA-4BFA-4282-89EC-C0D4AC15DC32}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.1.camera_circle", "7.1.camera_circle\7.1.camera_circle.vcxproj", "{014829AA-4BFA-4282-89EC-C0D4AC15DC32}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.2.camera_keyboard_dt", "1.getting_started\7.2.camera_keyboard_dt\7.2.camera_keyboard_dt.vcxproj", "{6708636B-5493-44AC-AE51-993DDBBCFF34}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.2.camera_keyboard_dt", "7.2.camera_keyboard_dt\7.2.camera_keyboard_dt.vcxproj", "{6708636B-5493-44AC-AE51-993DDBBCFF34}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.3.camera_mouse_zoom", "1.getting_started\7.3.camera_mouse_zoom\7.3.camera_mouse_zoom.vcxproj", "{B89835C0-BAA5-45D0-98E7-9109C865FB30}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.3.camera_mouse_zoom", "7.3.camera_mouse_zoom\7.3.camera_mouse_zoom.vcxproj", "{B89835C0-BAA5-45D0-98E7-9109C865FB30}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.camera_class", "1.getting_started\7.4.camera_class\7.4.camera_class.vcxproj", "{7E47A902-0FD4-4AAF-9D07-69C752520C3B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.camera_class", "7.4.camera_class\7.4.camera_class.vcxproj", "{7E47A902-0FD4-4AAF-9D07-69C752520C3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
